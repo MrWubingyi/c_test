@@ -1,0 +1,12 @@
+*.pcap*
+*.pcapng
+*.svg
+*perf*
+*.txt
+*.ppt
+*.excel
+*.apk
+*.ppt*
+*.whl
+*.xls
+*.out
